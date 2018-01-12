@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="sosushi" name="rand_int" type="rand_int.py" required="true" />
+    <node pkg="sosushi" name="sushi" type="sushi.py" required="true" />
+</launch>
