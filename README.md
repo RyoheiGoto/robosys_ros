@@ -9,3 +9,6 @@
 
 ## 動作動画
 https://youtu.be/z3Uq67cEmLM
+
+## License
+MIT
